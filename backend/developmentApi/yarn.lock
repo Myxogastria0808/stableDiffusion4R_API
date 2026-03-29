@@ -170,10 +170,10 @@ get-tsconfig@^4.7.2:
   dependencies:
     resolve-pkg-maps "^1.0.0"
 
-hono@^4.2.7:
-  version "4.2.7"
-  resolved "https://registry.yarnpkg.com/hono/-/hono-4.2.7.tgz#439ae5b0fc3620f254988b228b0e0c4d91ffe367"
-  integrity sha512-k1xHi86tJnRIVvqhFMBDGFKJ8r5O+bEsT4P59ZK59r0F300Xd910/r237inVfuT/VmE86RQQffX4OYNda6dLXw==
+hono@^4.11.7:
+  version "4.11.7"
+  resolved "https://registry.yarnpkg.com/hono/-/hono-4.11.7.tgz#f5b8d0b0b503ef0d913a246012dda52ea23dbe53"
+  integrity sha512-l7qMiNee7t82bH3SeyUCt9UF15EVmaBvsppY2zQtrbIhl/yzBTny+YUxsVjSjQ6gaqaeVtZmGocom8TzBlA4Yw==
 
 resolve-pkg-maps@^1.0.0:
   version "1.0.0"
